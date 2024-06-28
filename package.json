@@ -1,0 +1,19 @@
+{
+  "name": "ocean-payment-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oceanprotocol/lib": "^3.3.2",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.1"
+  }
+}

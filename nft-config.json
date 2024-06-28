@@ -1,0 +1,19 @@
+{
+  "nft": {
+    "name": "Crypto Payments NFT",
+    "symbol": "CPNFT"
+  },
+  "metadata": {
+    "name": "Crypto Payments Dataset",
+    "description": "A dataset about cryptocurrency payments",
+    "author": "Christian",
+    "custom": {
+      "crypto": "payments"
+    }
+  },
+  "pricing": {
+    "type": "fixed",
+    "price": "10",
+    "oceanAmount": "10"
+  }
+}
